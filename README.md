@@ -8,9 +8,9 @@ This repository contains 50+ LeetCode-style SQL challenges, with detailed soluti
 ---
 ## 🧾 Proof of Completion
 
-![Top SQL 50 Badge](./proof/leetcode-sql50-badge.png)
 
-LeetCode Username: [zhiaoli1](https://leetcode.com/u/zhiaoli1/)  
+
+LeetCode Username: https://leetcode.com/u/zhiaoli1/
 Problems Solved: **50/50**  
 Badge Earned: ✅ **Top SQL 50**
 
